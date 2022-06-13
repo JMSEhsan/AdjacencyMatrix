@@ -1,4 +1,4 @@
-# Plot adjacency matrix
+# Plot graph from adjacency matrix
 
 import numpy as np
 import networkx as nx
